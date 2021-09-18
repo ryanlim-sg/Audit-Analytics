@@ -2,10 +2,9 @@
 This is an actual interview case study with data from a real pharmaceutical company. The company name and sensitive information have been masked off for privacy reasons.
 
 Due to the file size, please download the data from the following dropbox links:
-
-
-
-
+https://www.dropbox.com/s/nb7qvlkjm5of72n/TnE_ClaimAttendees_Report_2020.csv?dl=0
+https://www.dropbox.com/s/7cpcrjmxlaybqrm/TnE_Claims_Report_2020.csv?dl=0
+https://www.dropbox.com/scl/fi/g3mk3f5el1v1yzk57twlq/TnE_ExpenseClaimRules.xlsx?dl=0&rlkey=e3jwcrs3np2zrtix3a0ctj0r3
 
 ## Data Analysis Case Study
 
