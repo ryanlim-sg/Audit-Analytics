@@ -1,6 +1,6 @@
-# Internal Audit(Data Analytics)
+# Internal Audit (Data Analytics)
 
-Data Analysis Case Study
+## Data Analysis Case Study
 
 The audit team is currently onsite for an audit of the interactions with Healthcare Practitioners (HCPs) in the China affiliate of Company X. The auditees in the country have provided the following T&E expenses for the organization for the full year of 2020:
 1.	T&E expenses reports from the T&E system
