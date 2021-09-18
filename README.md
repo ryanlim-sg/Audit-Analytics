@@ -21,6 +21,8 @@ a.	TnE_ExpenseClaimRules.xlsx
 
 Based on these T&E rules, you are to perform the analysis to identify the records with exceptions to each rule. Please provided exceptions in a tabular report. For each report, please provide details on the filters performed, and why they were chosen.
 
+### Additional background context
+
 The following section provides additional contextual information for the Case Study:
 Company X mainly engages HCPs through medical events. These events are managed within the Event Management System. The users in the Marketing or Sales department will raise a request for an event in the system, and provide the event details such as the event budget, the list of HCP attendees, and list of HCP approved speakers. Once the event request is approved, an internal order will be automatically created in the regional accounting system to track expenses incurred for the event. Certain departments may also manage their events outside the event management system. For these departments, approval is obtained offline, and the internal order will be manually created by the finance department.
 
