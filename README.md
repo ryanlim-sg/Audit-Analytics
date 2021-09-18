@@ -1,5 +1,6 @@
 # Internal Audit (Data Analytics)
-This is an actual interview case study with data from a real pharmaceutical company. The company name and data have been masked off for privacy purposes.
+This is an actual interview case study with data from a real pharmaceutical company. The company name and sensitive information have been masked off for privacy reasons.
+
 Due to the file size, please download the data from the following dropbox links:
 
 
